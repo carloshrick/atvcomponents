@@ -1,6 +1,5 @@
     import { View,  TextInput, TouchableOpacity, Button, Image } from "react-native"
     import {estile} from './style'  
-import { estilo } from "../../screens/home/styles"
     export default function Card({name}){
         return(
             <View style={estile.container}>
