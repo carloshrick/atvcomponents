@@ -8,7 +8,7 @@ import { estilo } from "../../screens/home/styles"
                 <View>
                     <TextInput style  = {estile.input_text}/>
                     <Image style={estile.perfil}source={require('../../assets/batman.jpg')}/>
-                    <TouchableOpacity style={estilo.botao}>
+                    <TouchableOpacity style={estile.botao}>
                         <Image style={estile.icon}source={require('../../assets/iconepesquisa.png')}/>
                     </TouchableOpacity>
                 </View>
