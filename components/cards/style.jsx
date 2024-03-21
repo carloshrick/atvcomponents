@@ -35,6 +35,15 @@ export const estile = StyleSheet.create({
         width:20,
         marginLeft:600,
         marginTop:-45
+    },
+
+    botao: {
+      width: 56,
+      borderRadius: 10,
+      fontSize: 50,
+      backgroundColor: '#00023D',
+      alignItems: 'center',
+      justifyContent: 'center'
     }
     
    
